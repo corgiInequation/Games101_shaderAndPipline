@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/learning_codes/games_work/duty_3/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c D:\\learning_codes\\games_work\\duty_3\\Code\\main.cpp",
+  "file": "D:/learning_codes/games_work/duty_3/Code/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/learning_codes/games_work/duty_3/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c D:\\learning_codes\\games_work\\duty_3\\Code\\rasterizer.cpp",
+  "file": "D:/learning_codes/games_work/duty_3/Code/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj"
+},
+{
+  "directory": "D:/learning_codes/games_work/duty_3/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c D:\\learning_codes\\games_work\\duty_3\\Code\\Triangle.cpp",
+  "file": "D:/learning_codes/games_work/duty_3/Code/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.obj"
+},
+{
+  "directory": "D:/learning_codes/games_work/duty_3/build",
+  "command": "D:\\learning_codes\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c D:\\learning_codes\\games_work\\duty_3\\Code\\Texture.cpp",
+  "file": "D:/learning_codes/games_work/duty_3/Code/Texture.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Texture.cpp.obj"
+}
+]

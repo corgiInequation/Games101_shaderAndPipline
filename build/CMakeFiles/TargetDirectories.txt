@@ -1,0 +1,3 @@
+D:/learning_codes/games_work/duty_3/build/CMakeFiles/Rasterizer.dir
+D:/learning_codes/games_work/duty_3/build/CMakeFiles/edit_cache.dir
+D:/learning_codes/games_work/duty_3/build/CMakeFiles/rebuild_cache.dir
